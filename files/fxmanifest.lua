@@ -21,6 +21,8 @@ server_scripts {
     'server/dashboard-ws.js',
     'server/dashboard-init-obfuscated.lua',
     'html/bans.json',
+    'html/kicks.json',
+    'html/warns.json',
     'html/admins.json',
     'init.lua',
     'html/install-proces/install.js',
